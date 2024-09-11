@@ -55,6 +55,8 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="40" alt="Git logo"  />
   <img width="12" />
+</div>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height="40" alt="Maven logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" height="40" alt="Liquibase logo"  />
