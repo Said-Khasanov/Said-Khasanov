@@ -8,11 +8,6 @@
   <a href="https://t.me/said9750" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=said-khasanov.said-khasanov&" alt="visitor badge"/>
 </div>
 
@@ -73,16 +68,6 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="40" alt="CSS logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥 Stats / Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Said-Khasanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
