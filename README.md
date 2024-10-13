@@ -58,7 +58,9 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height="40" alt="JUnit logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height="40" alt="mocikto logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height="40" alt="Mocikto logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" height="40" alt="Kafka logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" height="40" alt="Lombok logo"  />
   <img width="12" />
